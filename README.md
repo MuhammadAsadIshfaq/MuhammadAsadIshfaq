@@ -1,15 +1,10 @@
 # Muhammad Asad Ishfaq
 
-## 📧 Contact Information
-- **LinkedIn:** [Muhammad Asad Ishfaq](https://www.linkedin.com/in/muhammad-asad-ishfaq-62b4b81ab/)
-
----
 
 ## 📝 About Me
 
 Passionate AI student. With over a year of experience in Python, data analysis/visualization, and machine learning, I am committed to continuous learning and exploring innovative technologies to push the boundaries of Artificial Intelligence.
 
----
 
 ## 💻 Skills
 
