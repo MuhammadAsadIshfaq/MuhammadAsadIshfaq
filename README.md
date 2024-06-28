@@ -15,7 +15,7 @@ Passionate AI student. With over a year of experience in Python, data analysis/v
 
 - **Programming Languages:** Python, C++
 - **Machine Learning:** Linear Regression, Logistic Regression, SVM, K-Means, KNN, Decision Tree, GPT-3, GPT-4
-- **Deep Learning: Convolutional Neural Networks (CNN), TensorFlow, Keras
+- **Deep Learning:** Convolutional Neural Networks (CNN), TensorFlow, Keras
 - **Data Analysis and Visualization:** Numpy, Pandas, Matplotlib, Seaborn, Plotly
 - **Cloud Platforms:** Microsoft Azure
 - **Tools:** Streamlit, Jupyter Notebook, Git, GitHub, VS Code
